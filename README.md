@@ -21,8 +21,7 @@ I'm a passionate **Project Manager** and **Mobile Developer** at Enigma Camp, wi
 I'm actively looking to contribute to open-source projects. Feel free to reach out if you have any exciting projects where I can collaborate!
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [Your GitHub Profile](#)
-- **Email:** [Your Email](#)
+- **LinkedIn:** [[randytjioe]](https://www.linkedin.com/in/randytjioe/)
+- **Email:** [randytjioe95@gmail.com](#)
 
 ✨ _"Keep learning, keep building!"_
