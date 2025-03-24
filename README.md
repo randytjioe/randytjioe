@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## 🚀 About Me
-I'm a passionate **Project Manager** and **Mobile Developer** at Enigma Camp, with experience in Java Spring Boot for Backend, React JS for Frontend, and React Native for Mobile Development. I love exploring new technologies and contributing to open-source projects.
+I am a Software Developer with a strong analytical background, transitioning from data analysis into software development. Passionate about building scalable and efficient systems, I have experience in API development, database management, and system architecture.
 
 ## 🔧 Tech Stack
 - **Frontend:** React.js, Next.js, Angular
